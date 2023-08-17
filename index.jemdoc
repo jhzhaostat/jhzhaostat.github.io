@@ -1,0 +1,5 @@
+# jemdoc: nofooter
+
+1. Fix session file data loss issue.
+
+2. Fix Explorer context menu "Edit with Notepad++" needs restarting os to appear issue under Win 8/10.
