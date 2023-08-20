@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{papers.html}, nofooter  
+
+= Papers
+/These papers are made available for personal use only, subject to author's and publisher's copyright./ \n  /\# students; \+ equal contribution; \* corresponding authors./ 
+
+== Working Papers
+
+~~~
+. *Zhao, J.H.*\*, Liang, H.Y., Li, S.L., Yang, Z.J. and Wang, Z. (2023), [https://arxiv.org/pdf/2202.13188 /Matrix-based vs. Vector-based Linear Discriminant Analysis: A Comparison of Regularized Variants on Multivariate Time Series Data/],\n Submitted, [https://arxiv.org/pdf/2202.13188 \[arXiv:2202.13188\]].
+. *Zhao, J.H.*\*, Shang, C.C, Li, S.L., Xin, Ling, and Yu, P.L.H. (2023), [https://arxiv.org/pdf/2204.09086 /Choosing the number of factors in factor analysis with incomplete data via a hierarchical Bayesian information criterion/],\n Submitted, [https://arxiv.org/pdf/2204.09086 \[arXiv: 2204.09086\]]. 
+. Shang, C.C.\#, Ma, X, Jiang, F. and *Zhao, J.H.*\*,  (2023), [ /Bilinear factor analysis/], \n *Journal of Systems Science and Mathematical Sciences* (in Chinese), Accepted, [ \[pdf\]].
+. *Zhao, J.H.*\*, Ma, X\#, Shi, L. and Wang, Z. (2023), [http://dx.doi.org/10.1109/TNNLS.2022.3170797 /Robust Bilinear Probabilistic PCA using a Matrix Variate t distribution/],\n *IEEE Transactions on Neural Networks and Learning Systems*, Early Access, DOI: [http://dx.doi.org/10.1109/TNNLS.2022.3170797 10.1109/TNNLS.2022.3170797], [https://sci-hub.se/10.1109/TNNLS.2022.3170797 \[pdf\]].
+ 
+~~~
+
+== Publications
+
+~~~
+. Ma, X.\#, *Zhao, J.H.*\*, Wang, Y., Shang, C.C., and Jiang, F. (2023), [http://dx.doi.org/10.1016/j.csda.2022.107657 /Robust factored principal component analysis for matrix-valued outlier accommodation and detection/],\n *Computational Statistics & Data Analysis*, 179, 107657, DOI: [http://dx.doi.org/10.1016/j.csda.2022.107657 10.1016/j.csda.2022.107657], [https://sci-hub.se/10.1016/j.csda.2022.107657 \[pdf\]], [https://github.com/xfph/RFPCA.git \[code\]].
+. Jin, L, Chiu, S.N., *Zhao, J.H.*, and Zhu, L.X. (2023), [http://dx.doi.org/10.1007/s00184-022-00873-2 /A Constrained Maximum Likelihood Estimation for Skew Normal Mixtures/], \n *Metrika*, 86, 391–419, DOI: [http://dx.doi.org/10.1007/s00184-022-00873-2 10.1007/s00184-022-00873-2], [https://sci-hub.se/10.1007/s00184-022-00873-2 \[pdf\]].
+. *Zhao, J.H.*\* and Jiang, Q.B. [https://doi.org/10.1016/j.neucom.2005.07.011 /Probabilistic PCA for t distributions/], \n *Neurocomputing*, 69, 2217–2226, DOI: [https://doi.org/10.1016/j.neucom.2005.07.011 10.1016/j.neucom.2005.07.011], [https://sci-hub.se/10.1016/j.neucom.2005.07.011 pdf].
+ 
+~~~
