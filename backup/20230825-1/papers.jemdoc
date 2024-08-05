@@ -1,0 +1,52 @@
+# jemdoc: menu{MENU}{papers.html}, nofooter  
+
+= Papers
+/These papers are made available for personal use only, subject to author's and publisher's copyright./ \n  /\# students; \+ equal contribution; \* corresponding authors./ 
+
+== Working Papers
+
+~~~
+. *Zhao, J.H.*\*, Liang, H.Y., Li, S.L., Yang, Z.J. and Wang, Z. (2023), [https://arxiv.org/pdf/2202.13188 /Matrix-based vs. Vector-based Linear Discriminant Analysis: A Comparison of Regularized Variants on Multivariate Time Series Data/],\n Submitted, [https://arxiv.org/pdf/2202.13188 \[arXiv:2202.13188\]].
+. *Zhao, J.H.*\*, Shang, C.C, Li, S.L., Xin, Ling, and Yu, P.L.H. (2023), [https://arxiv.org/pdf/2204.09086 /Choosing the number of factors in factor analysis with incomplete data via a hierarchical Bayesian information criterion/],\n Submitted, [https://arxiv.org/pdf/2204.09086 \[arXiv: 2204.09086\]]. 
+. Shang, C.C.\#, Ma, X, Jiang, F. and *Zhao, J.H.*\*,  (2023), [http://dx.doi.org/10.12341/jssms23125 /Bilinear factor analysis/], \n *Journal of Systems Science and Mathematical Sciences* (in Chinese), Accepted, DOI: [http://dx.doi.org/10.12341/jssms23125 10.12341/jssms23125].
+. *Zhao, J.H.*\*, Ma, X\#, Shi, L. and Wang, Z. (2023), [http://dx.doi.org/10.1109/TNNLS.2022.3170797 /Robust Bilinear Probabilistic PCA using a Matrix Variate t distribution/],\n *IEEE Transactions on Neural Networks and Learning Systems*, Early Access, DOI: [http://dx.doi.org/TNNLS.2022.3170797 10.1109/TNNLS.2022.3170797], [https://sci-hub.se/10.1109/10.1109/TNNLS.2022.3170797 \[pdf\]].
+ 
+~~~
+
+== Selected Publications
+
+
+
+~~~
+{Statistical Machine Learning}
+
+. Ma, X.\#, *Zhao, J.H.*\*, Wang, Y., Shang, C.C., and Jiang, F. (2023), [http://dx.doi.org/10.1016/j.csda.2022.107657 /Robust factored principal component analysis for matrix-valued outlier accommodation and detection/],\n *Computational Statistics & Data Analysis*, 179, 107657, DOI: [http://dx.doi.org/10.1016/j.csda.2022.107657 10.1016/j.csda.2022.107657], [https://sci-hub.se/10.1016/j.csda.2022.107657 \[pdf\]], [https://github.com/xfph/RFPCA.git \[code\]].
+. Jin, L, Chiu, S.N., *Zhao, J.H.*, and Zhu, L.X. (2023), [http://dx.doi.org/10.1007/s00184-022-00873-2 /A Constrained Maximum Likelihood Estimation for Skew Normal Mixtures/], \n *Metrika*, 86, 391–419, DOI: [http://dx.doi.org/10.1007/s00184-022-00873-2 10.1007/s00184-022-00873-2], [https://sci-hub.se/10.1007/s00184-022-00873-2 \[pdf\]].
+. *Zhao, J.H.*\*, Sun,F.,Liang H.Y., Ma, X., Li X.X., and He, J. (2021), [http://dx.doi.org/10.1109/ACCESS.2021.3089839 /Pseudo Bidirectional Linear Discriminant Analysis for Multivariate Time Series Classification/],\n *IEEE Access*, 9, 88674-88684, DOI: [http://dx.doi.org/10.1109/ACCESS.2021.3089839 10.1109/ACCESS.2021.3089839], [https://sci-hub.se/10.1109/ACCESS.2021.3089839 \[pdf\]].
+. Shi, L., Shen, C., Shi, Q., Wang, Z., *Zhao, J.H.*, Li, X.L., and Boccaletti, S. (2020), [http://dx.doi.org/10.1109/TNSE.2020.2970997 /Recovering Network Structures Based on Evolutionary Game Dynamics via Secure Dimensional Reduction/], \n *IEEE Transactions On Network Science And Engineering*, 7(3), 2027-2036, DOI:[http://dx.doi.org/10.1109/TNSE.2020.2970997 10.1109/TNSE.2020.2970997], [https://sci-hub.se/10.1109/TNSE.2020.2970997 \[pdf\]]. 
+. 金立斌、 戴晓雯、 石磊、*赵建华* (2018), [https://doi.org/10.13860/j.cnki.sltj.20171131-001 /广义空间异常值修正模型及应用/],\n *数理统计与管理*, 37(2), 255-263, DOI: [https://sci-hub.se/10.13860/j.cnki.sltj.20171131-001 10.13860/j.cnki.sltj.20171131-001].
+. Shi, L., J., *Zhao, J.H.*, and Chen, G.M. (2016), [https://doi.org/10.1016/j.csda.2015.10.003 /Case deletion diagnostics for GMM estimation/], \n *Computational Statistics & Data Analysis*, 95(3), 176-191, DOI:[https://doi.org/10.1016/j.csda.2015.10.003 10.1016/j.csda.2015.10.003], [https://sci-hub.se/10.1016/j.csda.2015.10.003 \[pdf\]].
+. *Zhao, J.H.*, Shi, L.\*, and Zhu, J. (2015), [https://doi.org/10.1109/TNNLS.2014.2350993 /Two-Stage Regularized Linear Discriminant Analysis for 2-D Data/], \n *IEEE Transactions on Neural Networks and Learning Systems*, 26(8), 1669-1681, DOI: [https://doi.org/10.1109/TNNLS.2014.2350993 10.1109/TNNLS.2014.2350993], [https://sci-hub.se/10.1109/TNNLS.2014.2350993 \[pdf\]].
+. *Zhao, J.H.*, Jin, L.B. and Shi, L.\* (2015), [https://doi.org/10.1016/j.csda.2015.01.019 /Mixture model selection via hierarchical BIC/], \n *Computational Statistics & Data Analysis*, 88(8), 139-153, DOI: [https://doi.org/10.1016/j.csda.2015.01.019 10.1016/j.csda.2015.01.019], [https://sci-hub.se/10.1016/j.csda.2015.01.019 \[pdf\]].
+. Shi, L., Rahman, M.M., Gan, W., and *Zhao, J.H.* (2015), [https://doi.org/10.1080/02664763.2014.957661 /Stepwise local influence in generalized autoregressive conditional heteroskedasticity models/], \n *Journal of Applied Statistics*, 42(2), 428-444, DOI: [https://doi.org/10.1080/02664763.2014.957661 10.1080/02664763.2014.957661], [https://sci-hub.se/10.1080/02664763.2014.957661 \[pdf\]].
+. *Zhao, J.H.*\* (2014), [https://doi.org/10.1109/TCYB.2014.2298401 /Efficient Model Selection for Mixtures of Probabilistic PCA via Hierarchical BIC/], \n *IEEE Transactions on Cybernetics*, 44(10), 1871-1883, DOI: [https://doi.org/10.1109/TCYB.2014.2298401 10.1109/TCYB.2014.2298401], [https://sci-hub.se/10.1109/TCYB.2014.2298401 \[pdf\]].
+. *Zhao, J.H.* and Shi, L.\* (2014), [https://doi.org/10.1016/j.csda.2013.11.008 /Automated learning of factor analysis with complete and incomplete data/], \n *Computational Statistics & Data Analysis*, 72(4), 205-218, DOI: [https://doi.org/10.1016/j.csda.2013.11.008 10.1016/j.csda.2013.11.008], [https://sci-hub.se/10.1016/j.csda.2013.11.008 \[pdf\]]. 
+. *Zhao, J.H.*\*, Yu, P.L.H., Shi, L. and Li, S.L. (2012), [https://doi.org/10.1016/j.csda.2012.04.003 /Separable linear discriminant analysis/], \n *Computational Statistics & Data Analysis*, 56(12), 4290-4300, DOI: [https://doi.org/10.1016/j.csda.2012.04.003 10.1016/j.csda.2012.04.003], [https://sci-hub.se/10.1016/j.csda.2012.04.003 \[pdf\]].
+. *Zhao, J.H.*\*, Yu, P.L.H. and  Kwok, James T. (2012, [https://doi.org/10.1109/TNNLS.2012.2183006 /Bilinear Probabilistic Principal component analysis/], \n *IEEE Transactions on Neural Networks and Learning Systems*, 23(3), 492-503, DOI: [https://doi.org/10.1109/TNNLS.2012.2183006 10.1109/TNNLS.2012.2183006], [https://sci-hub.se/10.1109/TNNLS.2012.2183006 \[pdf\]].
+#. *Zhao, J.H.*, et al. (2011), [https://2011.isiproceedings.org/papers/950306.pdf /Probabilistic Principal component analysis for 2D data/], \n *Proceedings of the 58th World Statistics Congress (ISI 2011)*, [https://2011.isiproceedings.org/papers/950306.pdf \[pdf\]].
+#. *Zhao, J.H.*, et al. (2010),[https://doi.org/10.1007/978-3-7908-2604-3_62 /Separable Two-Dimensional Linear Discriminant Analysis/], \n *19th International Conference on Computational Statistics (Compstat2010)*, DOI: [https://doi.org/10.1007/978-3-7908-2604-3_62 10.1007/978-3-7908-2604-3_62], [https://sci-hub.se/10.1007/978-3-7908-2604-3_62 \[pdf\]].
+. *Zhao, J.H.*\* and Yu, P.L.H. (2009), [https://doi.org/10.1016/j.neunet.2008.11.002 /A note on variational Bayesian factor analysis/], \n *Neural Networks*, 22(7), 988-997, DOI: [https://doi.org/10.1016/j.neunet.2008.11.002 10.1016/j.neunet.2008.11.002], [https://sci-hub.se/10.1016/j.neunet.2008.11.002 \[pdf\]].
+. *Zhao, J.H.*\*, Yu, P.L.H. and Jiang, Q.B. (2008), [https://doi.org/10.1007/s11222-007-9042-y /ML estimation for factor analysis: EM or non-EM?/], \n *Statistics and Computing*, 18(2), 109-123, DOI: [https://doi.org/10.1007/s11222-007-9042-y 10.1007/s11222-007-9042-y], [https://sci-hub.se/10.1007/s11222-007-9042-y \[pdf\]].
+. *Zhao, J.H.*\* and Yu, P.L.H. (2008), [https://doi.org/10.1109/TNN.2008.2003467 /Fast ML estimation for the Mixture of Factor Analyzers via an ECM Algorithm/], \n *IEEE Transactions on Neural Networks*, 19(11), 1956-1961, DOI: [https://doi.org/10.1109/TNN.2008.2003467 10.1109/TNN.2008.2003467], [https://sci-hub.se/10.1109/TNN.2008.2003467 \[pdf\]].
+. *Zhao, J.H.*\* and Jiang, Q.B. (2006), [https://doi.org/10.1016/j.neucom.2005.07.011 /Probabilistic PCA for t distributions/], \n *Neurocomputing*, 69, 2217–2226, DOI: [https://doi.org/10.1016/j.neucom.2005.07.011 10.1016/j.neucom.2005.07.011], [https://sci-hub.se/10.1016/j.neucom.2005.07.011 \[pdf\]].
+~~~
+
+~~~
+{Statistical Interdisciplinary Research}
+
+. 王明锋、  *赵建华*、 兰海强、 宫玉鹏、 朱保昆(2014), [https://doi.org/10.3969/j.issn.1002-0861.2014.05.003 /卷烟感官评价中小组得分的两阶段统计法/],\n *烟草科技*, 05期, pp 13-16, DOI: [https://sci-hub.se/j.issn.1002-0861.2014.05.003  10.3969/j.issn.1002-0861.2014.05.003].
+. 王明锋、 焦玉磊、 *赵建华*、 朱保昆、 王坚、 者为(2014), 卷烟感官舒适性与主流烟气化学成分的回归建模,\n *中国烟草学报*, 05期, pp 12-18. 
+. 武怡、曾晓鹰、朱保昆、*赵建华*、 王明锋(2012), [https://doi.org/10.3969/j.issn.1002-0861.2012.09.001 /中式卷烟风格感官评价方法区域适应性分析/],\n *烟草科技*, 09期, pp 5-9, DOI: [https://sci-hub.se/10.3969/j.issn.1002-0861.2012.09.001  10.3969/j.issn.1002-0861.2012.09.001]. 
+. 朱保昆、王明锋、韩毅、焦玉磊、郭婧超、*赵建华*、 廖头根(2012), 烤烟主要烟气化学成分对卷烟感官舒适度的影响研究,\n *云南大学学报(自然科学版)*, 01期, pp 77-83. 
+. 朱保昆、朱东来、王明锋、*赵建华*、廖头根(2011), [https://doi.org/10.3969/j.issn.1007-5119.2011.06.004 /烤烟主要化学指标与感官舒适度的相关性分析/],\n *中国烟草科学*, 06期, pp 17-20+25, DOI: [https://sci-hub.se/10.3969/j.issn.1007-5119.2011.06.004 10.3969/j.issn.1007-5119.2011.06.004/].
+~~~

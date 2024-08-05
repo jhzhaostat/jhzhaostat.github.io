@@ -1,5 +1,39 @@
-# jemdoc: nofooter
+# jemdoc: menu{MENU}{index.html}, nofooter  
+== Jianhua Zhao 
 
-1. Fix session file data loss issue.
+~~~
+{}{img_left}{./pic/jhzhao-l2.jpg}{photo}{160px}{200px}
+Professor \n 
+Department of Statistics  \n
+School of Statistics and Mathematics \n
+Yunnan University of Finance and Economic, Kunming 650221, China \n
+Email: [jhzhao.ynu@gmail.com]
 
-2. Fix Explorer context menu "Edit with Notepad++" needs restarting os to appear issue under Win 8/10.
+[https://orcid.org/0000-0003-4028-8478 ORCID], [https://scholar.google.com/citations?user=qO7iw2QAAAAJ&hl=en Google Scholar], [https://github.com/jhzhaostat/ Github]
+~~~
+
+== Biography
+I am currently a full professor in the Department of Statistics, Yunnan University of Finance and Economics, Kunming, China. My current research interests include statistical machine learning, data science, and computational statistics.
+
+== Education
+- 2009.  Ph.D. in Statistics, Department of Statistics & Actuarial Science, The University of Hong Kong, Hong Kong.
+- 2003.  M.S. in Probability and Statistics, Department of Mathematics, Southeast University, China.
+- 2000.  B.S. in Mathematics, Department of Mathematics, Yunnan University, China
+
+== Research Interests
+- Latent variable models
+- Discriminant analysis
+- Mixture models
+- Robust statistical modelling
+
+== Experience
+- 2015.1-2015.2, Visiting Research Associate, Department of Statistics & Actuarial Science, The University of Hong Kong
+- 2013.1-2013.3, Visiting Research Associate, Department of Statistics & Actuarial Science, The University of Hong Kong
+- 2012.8-2012.9, Visiting Research Associate, Department of Statistics & Actuarial Science, The University of Hong Kong
+- 2012.1-2012.3, Visiting Research Associate, Department of Statistics & Actuarial Science, The University of Hong Kong
+- 2011.8-2011.9, Visiting Scholar, Department of Statistics & Actuarial Science, The University of Hong Kong
+- 2011.1-2011.3, Visiting Research Associate, Department of Statistics & Actuarial Science, The University of Hong Kong
+- 2010.8-2010.9, Visiting Research Associate, Department of Statistics & Actuarial Science, The University of Hong Kong
+- 2010.1-2010.3, Visiting Research Associate, Department of Statistics & Actuarial Science, The University of Hong Kong
+
+

@@ -1,0 +1,20 @@
+# jemdoc: menu{MENU}{papers.html}, nofooter  
+
+= Papers
+/These papers are made available for personal use only, subject to author's and publisher's copyright./ \n  /\# students; \+ equal contribution; \* corresponding authors./ 
+
+== [file:///F:/jhzhao/doc/网盘/微云同步助手/68554047/jhzhao/research/doc/working/problems/problems.pdf Working Paper](to be considered; old)
+
+~~~
+. Yu, P.L.H., and *Zhao, J.H.*, [file:///F:/jhzhao/doc/网盘/微云同步助手/68554047/jhzhao/research/doc/msg/outlook/jhzhao/pub/en/efa2.pdf /Efficient implementation of the conditional maximization algorithm for ML estimation of Factor Analysis/],\n *Tech. Report. YNUFE*. To be Submitted. \[(0) org, org-comment; (1) r1, reply1, r1-comment; (2) r2, reply2, r2-comment; (3) r3, reply3, r3-comment] \[working-folder code].
+. *Zhao, J.H.*, [file:///F:/jhzhao/doc/网盘/微云同步助手/68554047/jhzhao/research/doc/working/my_work/2DLDA/AMC/fbdr.pdf /An efficient model selection algorithm for non-iterative bidirectional dimension reduction methods/],\n *Tech. Report. YNUFE*. To be submitted. \[(0) org, org-comment; (1) r1, reply1, r1-comment; (2) r2, reply2, r2-comment; (3) r3, reply3, r3-comment] \[working-folder code].
+. *Zhao, J.H.*, Generalized approximation of matrices,\n *Tech. Report. YNUFE*. To be submitted. \[(0) [file:///F:/jhzhao/doc/网盘/微云同步助手/68554047/jhzhao/research/doc/working/my_work/GAM/gam.pdf org], org-comment; (1) r1, reply1, r1-comment; (2) r2, reply2, r2-comment; (3) r3, reply3, r3-comment\] 
+\[[file:///F:/jhzhao/doc/网盘/微云同步助手/68554047/jhzhao/research/doc/working/my_work/GAM working-folder] code\].
+. *Zhao, J.H.*, Generalized Matrix Variate Factor Analysis for Image Data,\n *Tech. Report. YNUFE*. To be submitted. \[(0) [file:///F:/jhzhao/doc/网盘/微云同步助手/68554047/jhzhao/research/doc/working/my_work/gmvfa/paper/gmvfa.pdf org], org-comment; (1) r1, reply1, r1-comment; (2) r2, reply2, r2-comment; (3) r3, reply3, r3-comment\] 
+\[[file:///F:/jhzhao/doc/网盘/微云同步助手/68554047/jhzhao/research/doc/working/my_work/gmvfa working-folder] [file:///F:/jhzhao/doc/网盘/微云同步助手/68554047/jhzhao/research/doc/working/my_work/gmvfa/prog code]\].
+. *Zhao, J.H.*, Type 2 multivariate t,\n *Tech. Report. YNUFE*. To be submitted. \[(0) [file:///F:/jhzhao/doc/网盘/微云同步助手/68554047/jhzhao/research/doc/working/my_work/Type2-t/paper/org/type2-t.pdf org], org-comment; (1) r1, reply1, r1-comment; (2) r2, reply2, r2-comment; (3) r3, reply3, r3-comment\] 
+\[[file:///F:/jhzhao/doc/网盘/微云同步助手/68554047/jhzhao/research/doc/working/my_work/Type2-t working-folder] [file:///G:/program/my_prog/t2fa code]\].
+. *Zhao, J.H.*, Maximum likelihood estimation of symmetric matrix-variate normal distributions,\n *Tech. Report. YNUFE*. To be submitted. \[(0) [file:///F:/jhzhao/doc/网盘/微云同步助手/68554047/jhzhao/research/doc/working/my_work/2DPCA/EOSM/eosm.pdf org], org-comment; (1) r1, reply1, r1-comment; (2) r2, reply2, r2-comment; (3) r3, reply3, r3-comment\] 
+\[[file:///F:/jhzhao/doc/网盘/微云同步助手/68554047/jhzhao/research/doc/working/my_work/2DPCA/EOSM working-folder] [file:///G:/program/my_prog/mmvn code]\].
+
+~~~
